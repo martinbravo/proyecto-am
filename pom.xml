@@ -15,7 +15,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>proyecto-am</finalName>
-  </build>
 </project>
